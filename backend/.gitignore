@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Sistema operativo
+.DS_Store
+
+# Build / distribución (si tuvieras)
+dist/
