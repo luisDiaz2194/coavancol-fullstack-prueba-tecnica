@@ -12,7 +12,7 @@ const AsociadosList = () => {
     <div className='Container'>
         <h2>Listado de Asociados</h2>
 
-        <table>
+        <table border={1} cellPadding={8} style={{ width: "100%", borderCollapse: "collapse" }}>
             <thead>
                 <th>Nombre</th>
                 <th>Identificación</th>
@@ -23,8 +23,8 @@ const AsociadosList = () => {
                 {asociados.map((asociado) => {
                     return (
                         <tr key ={asociado.id}>
-                        <td>{asociado.nombre}</td>
-                        <td>{asociado.identificacion}</td>
+                        <td>{asociado.Nombre}</td>
+                        <td>{asociado.Identificación}</td>
                         <td>{asociado.estado_pipeline}</td>
                     </tr>
                     );   
