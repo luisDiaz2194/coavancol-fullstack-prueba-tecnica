@@ -1,0 +1,90 @@
+[
+  {
+    "id": "abc123",
+    "Nombre": "Juan Pérez",
+    "Identificación": "111111",
+    "estado_pipeline": "Expediente en Construcción",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": "2025-12-05T17:13:16.294Z"
+  },
+  {
+    "id": "def456",
+    "Nombre": "Ana Gómez",
+    "Identificación": "222222",
+    "estado_pipeline": "Expediente en Construcción",
+    "aporte_49900_pagado": false,
+    "ultima_actualizacion": null
+  },
+  {
+    "id": "ghi789",
+    "Nombre": "Carlos Ramírez",
+    "Identificación": "333333",
+    "estado_pipeline": "Pendiente Firma y Litivo",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": "2025-12-05T17:13:54.380Z"
+  },
+  {
+    "id": "jkl012",
+    "Nombre": "María Torres",
+    "Identificación": "444444",
+    "estado_pipeline": "Pendiente Cierre de Crédito",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": null
+  },
+  {
+    "id": "mno345",
+    "Nombre": "Luis Fernández",
+    "Identificación": "555555",
+    "estado_pipeline": "Pendiente Firma y Litivo",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": null
+  },
+  {
+    "id": "pqr678",
+    "Nombre": "Sofía Martínez",
+    "Identificación": "666666",
+    "estado_pipeline": "Pendiente Revisión Abogado",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": null
+  },
+  {
+    "id": "stu901",
+    "Nombre": "Diego López",
+    "Identificación": "777777",
+    "estado_pipeline": "Cartera Activa",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": null
+  },
+  {
+    "id": "vwx234",
+    "Nombre": "Valentina Sánchez",
+    "Identificación": "888888",
+    "estado_pipeline": "Desembolsado/Finalizado",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": null
+  },
+  {
+    "id": "yz1234",
+    "Nombre": "Fernando Ruiz",
+    "Identificación": "999999",
+    "estado_pipeline": "Pendiente Jurídico",
+    "aporte_49900_pagado": true,
+    "ultima_actualizacion": "2025-12-05T17:30:16.137Z"
+  },
+  {
+    "id": "abc567",
+    "Nombre": "Gabriela Díaz",
+    "Identificación": "101010",
+    "estado_pipeline": "Prospecto",
+    "aporte_49900_pagado": false,
+    "ultima_actualizacion": null
+  },
+  {
+    "id": "xxx560",
+    "Nombre": "Luis Diaz",
+    "Identificación": "101010",
+    "estado_pipeline": "Pendiente Firma y Litivo",
+    "aporte_49900_pagado": false,
+    "ultima_actualizacion": "2025-12-05T17:25:47.598Z"
+  }
+]
