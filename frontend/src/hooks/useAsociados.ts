@@ -23,8 +23,8 @@ export function useAsociados() {
             
             const data: Asociado[] = await response.json();
 
-            const ordenadosAsociados = data.sort((a, b) =>
-                (a.nombre ?? "").localeCompare(b.nombre ?? "")
+           const ordenadosAsociados = data.sort((a, b) =>
+                (a.Nombre ?? "").localeCompare(b.Nombre ?? "", "es", { sensitivity: "base" })
             );
 
             setAsociados(ordenadosAsociados);
